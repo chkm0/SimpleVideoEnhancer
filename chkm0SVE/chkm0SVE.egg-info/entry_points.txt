@@ -1,2 +1,0 @@
-[console_scripts]
-chkm0SVE = chkm0SVE:main
