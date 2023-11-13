@@ -1,0 +1,8 @@
+README.md
+setup.py
+chkm0SVE.egg-info/PKG-INFO
+chkm0SVE.egg-info/SOURCES.txt
+chkm0SVE.egg-info/dependency_links.txt
+chkm0SVE.egg-info/entry_points.txt
+chkm0SVE.egg-info/requires.txt
+chkm0SVE.egg-info/top_level.txt
